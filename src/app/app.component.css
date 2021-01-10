@@ -11,3 +11,9 @@ button {
     font-size: 18px;
     cursor: pointer;
 }
+
+.image{
+    height:40em; background-size:cover; width:auto;
+    background-image:'space.jpg';
+    background-position:50% 50%;
+  }
